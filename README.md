@@ -9,7 +9,7 @@
 | 1   | Umang Kumar Chourasia | 2341003058 |
 | 2   | ADITYA KUMAR SAHAY    | 2341019019 |
 | 3   | KHUSHI SINGH          | 2341019515 |
-| 4   | MEMBER 4 NAME         | 2341018024 |
+| 4   | DIKSHA RAJ            | 2341018024 |
 
 ## Project Description
 
